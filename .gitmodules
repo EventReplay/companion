@@ -333,7 +333,7 @@
 	url = https://github.com/bitfocus/companion-module-roland-vp42h.git
 [submodule "lib/module/opticis-omm-1000"]
 	path = lib/module/opticis-omm-1000
-	url = https://github.com/bitfocus/companion-module-opticis-omm1000.git
+url=https://github.com/bitfocus/companion-module-opticis-omm-1000.git
 [submodule "lib/module/sounddevices-pixnet"]
 	path = lib/module/sounddevices-pixnet
 	url = https://github.com/bitfocus/companion-module-sounddevices-pixnet.git
@@ -361,3 +361,183 @@
 [submodule "lib/module/metus-ingest"]
 	path = lib/module/metus-ingest
 	url = https://github.com/bitfocus/companion-module-metus-ingest.git
+[submodule "lib/module/extron-ipl-t-pcs4"]
+	path = lib/module/extron-ipl-t-pcs4
+	url = https://github.com/bitfocus/companion-module-extron-ipl-t-pcs4.git
+[submodule "lib/module/extron-smp351"]
+	path = lib/module/extron-smp351
+	url = https://github.com/bitfocus/companion-module-extron-smp351.git
+[submodule "lib/module/zenvideo-ndirouter"]
+	path = lib/module/zenvideo-ndirouter
+	url = https://github.com/bitfocus/companion-module-zenvideo-ndirouter.git
+[submodule "lib/module/obsidiancontrol-onyx"]
+	path = lib/module/obsidiancontrol-onyx
+	url = https://github.com/bitfocus/companion-module-obsidiancontrol-onyx.git
+[submodule "lib/module/aja-kumo"]
+	path = lib/module/aja-kumo
+	url = https://github.com/bitfocus/companion-module-aja-kumo.git
+[submodule "lib/module/techministry-midirelay"]
+	path = lib/module/techministry-midirelay
+	url = https://github.com/bitfocus/companion-module-techministry-midirelay.git
+[submodule "lib/module/bmd-multiview16"]
+	path = lib/module/bmd-multiview16
+	url = https://github.com/bitfocus/companion-module-bmd-multiview16.git
+[submodule "lib/module/roland-v600uhd"]
+	path = lib/module/roland-v600uhd
+	url = https://github.com/bitfocus/companion-module-roland-v600uhd.git
+[submodule "lib/module/vaddio-ptz"]
+	path = lib/module/vaddio-ptz
+	url = https://github.com/bitfocus/companion-module-vaddio-ptz.git
+[submodule "lib/module/analogway-vertige"]
+	path = lib/module/analogway-vertige
+	url = https://github.com/bitfocus/companion-module-analogway-vertige.git
+[submodule "lib/module/epiphan-pearl"]
+	path = lib/module/epiphan-pearl
+	url = https://github.com/bitfocus/companion-module-epiphan-pearl.git
+[submodule "lib/module/extron-in1604"]
+	path = lib/module/extron-in1604
+	url = https://github.com/bitfocus/companion-module-extron-in1604.git
+[submodule "lib/module/blackdiamondvideo-phantom800"]
+	path = lib/module/blackdiamondvideo-phantom800
+	url = https://github.com/bitfocus/companion-module-blackdiamondvideo-phantom800.git
+[submodule "lib/module/wyrestorm-sw0402mv"]
+	path = lib/module/wyrestorm-sw0402mv
+	url = https://github.com/bitfocus/companion-module-wyrestorm-sw0402mv.git
+[submodule "lib/module/dalite-scb"]
+	path = lib/module/dalite-scb
+	url = https://github.com/bitfocus/companion-module-dalite-scb.git
+[submodule "lib/module/pixap-pixtimerpro"]
+	path = lib/module/pixap-pixtimerpro
+	url = https://github.com/bitfocus/companion-module-pixap-pixtimerpro.git
+[submodule "lib/module/dexon-dimax"]
+	path = lib/module/dexon-dimax
+	url = https://github.com/bitfocus/companion-module-dexon-dimax.git
+[submodule "lib/module/dexon-divip"]
+	path = lib/module/dexon-divip
+	url = https://github.com/bitfocus/companion-module-dexon-divip.git
+[submodule "lib/module/media-player-classic"]
+	path = lib/module/media-player-classic
+	url = https://github.com/bitfocus/companion-module-media-player-classic.git
+[submodule "lib/module/extron-smp111"]
+	path = lib/module/extron-smp111
+	url = https://github.com/bitfocus/companion-module-extron-smp111.git
+[submodule "lib/module/qlab-advance"]
+	path = lib/module/qlab-advance
+	url = https://github.com/bitfocus/companion-module-qlab-advance.git
+[submodule "lib/module/sonoran-coyote"]
+	path = lib/module/sonoran-coyote
+	url = https://github.com/bitfocus/companion-module-sonoran-coyote.git
+[submodule "lib/module/dexon-matrix"]
+	path = lib/module/dexon-matrix
+	url = https://github.com/bitfocus/companion-module-dexon-matrix.git
+[submodule "lib/module/analogway-livepremier"]
+	path = lib/module/analogway-livepremier
+	url = https://github.com/bitfocus/companion-module-analogway-livepremier.git
+[submodule "lib/module/joy-playdeck"]
+	path = lib/module/joy-playdeck
+	url = https://github.com/bitfocus/companion-module-joy-playdeck.git
+[submodule "lib/module/optoma-z28s"]
+	path = lib/module/optoma-z28s
+	url = https://github.com/bitfocus/companion-module-optoma-z28s.git
+[submodule "lib/module/novastar-vx4s"]
+	path = lib/module/novastar-vx4s
+	url = https://github.com/bitfocus/companion-module-novastar-vx4s.git
+[submodule "lib/module/avstumpfl-pixera"]
+	path = lib/module/avstumpfl-pixera
+	url = https://github.com/bitfocus/companion-module-avstumpfl-pixera.git
+[submodule "lib/module/avproconnect-acmx1616-auhd"]
+	path = lib/module/avproconnect-acmx1616-auhd
+	url = https://github.com/bitfocus/companion-module-avproconnect-acmx1616-auhd.git
+[submodule "lib/module/sharp-tv"]
+	path = lib/module/sharp-tv
+	url = https://github.com/bitfocus/companion-module-sharp-tv.git
+[submodule "lib/module/octava-pro-dsx"]
+	path = lib/module/octava-pro-dsx
+	url = https://github.com/bitfocus/companion-module-octava-pro-dsx.git
+[submodule "lib/module/sain-smart-relay"]
+	path = lib/module/sain-smart-relay
+	url = https://github.com/bitfocus/companion-module-sain-smart-relay.git
+[submodule "lib/module/shure-wireless"]
+	path = lib/module/shure-wireless
+	url = https://github.com/bitfocus/companion-module-shure-wireless.git
+[submodule "lib/module/qsys-remote-control"]
+	path = lib/module/qsys-remote-control
+	url = https://github.com/bitfocus/companion-module-qsys-remote-control.git
+[submodule "lib/module/slack-webhooks"]
+	path = lib/module/slack-webhooks
+	url = https://github.com/bitfocus/companion-module-slack-webhooks.git
+[submodule "lib/module/roland-vr50hd-mk2"]
+	path = lib/module/roland-vr50hd-mk2
+	url = https://github.com/bitfocus/companion-module-roland-vr50hd-mk2.git
+[submodule "lib/module/faith-chapels-video-playout"]
+	path = lib/module/faith-chapels-video-playout
+	url = https://github.com/bitfocus/companion-module-faith-chapels-video-playout.git
+[submodule "lib/module/newbluefx-titler"]
+	path = lib/module/newbluefx-titler
+url=https://github.com/bitfocus/companion-module-newbluefx-titler.git
+[submodule "lib/module/foscam-ptz"]
+	path = lib/module/foscam-ptz
+	url = https://github.com/bitfocus/companion-module-foscam-ptz.git
+[submodule "lib/module/dahuasecurity-ptz"]
+	path = lib/module/dahuasecurity-ptz
+	url = https://github.com/bitfocus/companion-module-dahuasecurity-ptz.git
+[submodule "lib/module/da-share-multiplay"]
+	path = lib/module/da-share-multiplay
+	url = https://github.com/bitfocus/companion-module-da-share-multiplay.git
+[submodule "lib/module/avolites-ai"]
+	path = lib/module/avolites-ai
+	url = https://github.com/bitfocus/companion-module-avolites-ai.git
+[submodule "lib/module/green-hippo-hippotizer"]
+	path = lib/module/green-hippo-hippotizer
+	url = https://github.com/bitfocus/companion-module-green-hippo-hippotizer.git
+[submodule "lib/module/pangolin-beyond"]
+	path = lib/module/pangolin-beyond
+	url = https://github.com/bitfocus/companion-module-pangolin-beyond.git
+[submodule "lib/module/h2r-graphics"]
+	path = lib/module/h2r-graphics
+	url = https://github.com/bitfocus/companion-module-h2r-graphics.git
+[submodule "lib/module/jamesholt-x32tc"]
+	path = lib/module/jamesholt-x32tc
+	url = https://github.com/bitfocus/companion-module-jamesholt-x32tc.git
+[submodule "lib/module/figure53-go-button"]
+	path = lib/module/figure53-go-button
+	url = https://github.com/bitfocus/companion-module-figure53-go-button.git
+[submodule "lib/module/kramer-vp734"]
+	path = lib/module/kramer-vp734
+	url = https://github.com/bitfocus/companion-module-kramer-vp734.git
+[submodule "lib/module/xiamen-sprolink-vd-series"]
+	path = lib/module/xiamen-sprolink-vd-series
+	url = https://github.com/bitfocus/companion-module-xiamen-sprolink-vd-series.git
+[submodule "lib/module/mikrotik-routeros"]
+	path = lib/module/mikrotik-routeros
+	url = https://github.com/bitfocus/companion-module-mikrotik-routeros.git
+[submodule "lib/module/dsan-limitimer"]
+	path = lib/module/dsan-limitimer
+	url = https://github.com/bitfocus/companion-module-dsan-limitimer.git
+[submodule "lib/module/dsan-perfectcue"]
+	path = lib/module/dsan-perfectcue
+	url = https://github.com/bitfocus/companion-module-dsan-perfectcue.git
+[submodule "lib/module/malighting-msc"]
+	path = lib/module/malighting-msc
+	url = https://github.com/bitfocus/companion-module-malighting-msc.git
+[submodule "lib/module/lyntec-rpc-breaker"]
+	path = lib/module/lyntec-rpc-breaker
+	url = https://github.com/bitfocus/companion-module-lyntec-rpc-breaker.git
+[submodule "lib/module/mqtt"]
+	path = lib/module/mqtt
+	url = https://github.com/bitfocus/companion-module-mqtt.git
+[submodule "lib/module/twitch-api"]
+	path = lib/module/twitch-api
+	url = https://github.com/bitfocus/companion-module-twitch-api.git
+[submodule "lib/module/thelightingcontroller"]
+	path = lib/module/thelightingcontroller
+	url = https://github.com/bitfocus/companion-module-thelightingcontroller.git
+[submodule "lib/module/haivision-connectdvr"]
+	path = lib/module/haivision-connectdvr
+	url = https://github.com/bitfocus/companion-module-haivision-connectdvr.git
+[submodule "lib/module/jvc-ptz"]
+	path = lib/module/jvc-ptz
+	url = https://github.com/bitfocus/companion-module-jvc-ptz.git
+[submodule "lib/module/digico-osc"]
+	path = lib/module/digico-osc
+	url = https://github.com/bitfocus/companion-module-digico-osc.git
